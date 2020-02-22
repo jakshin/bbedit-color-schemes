@@ -2,9 +2,23 @@
 
 Color schemes for the excellent [BBEdit text/code editor](https://www.barebones.com/products/bbedit/).
 
-Campsite is based on [Andrew Hazelden's Charcoal v2](https://github.com/AndrewHazelden/More-TextWrangler-and-BBEdit-Color-Schemes/tree/master/Charcoal%20Color%20Scheme).
-Solarized was ported from <https://ethanschoonover.com/solarized/>.
+Campsite is based on [Andrew Hazelden's Charcoal v2](https://github.com/AndrewHazelden/More-TextWrangler-and-BBEdit-Color-Schemes/tree/master/Charcoal%20Color%20Scheme).   
+Solarized was ported from <https://ethanschoonover.com/solarized/>.   
 Tomorrow & Tomorrow Night were ported from <https://github.com/chriskempson/tomorrow-theme>.
+
+### Screenshots
+
+Campsite | Monokainda | Schoon
+-------- | ---------- | ---------------
+<img src="Screenshots/Campsite.png"> | <img src="Screenshots/Monokainda.png"> | <img src="Screenshots/Schoon.png">
+
+Solarized Dark | Solarized Light
+-------------- | ---------------
+<img src="Screenshots/Solarized Dark.png"> | <img src="Screenshots/Solarized Light.png">
+
+Tomorrow Night | Tomorrow
+-------------- | --------
+<img src="Screenshots/Tomorrow Night.png"> | <img src="Screenshots/Tomorrow.png">
 
 ### Installation
 
