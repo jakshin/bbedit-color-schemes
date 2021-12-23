@@ -40,6 +40,12 @@
 	<string>hsla(0.544, 0.229, 0.515, 1.000)</string>
 	<key>com.barebones.bblm.css.color-spec</key>
 	<string>hsla(0.126, 1.000, 0.711, 1.000)</string>
+	<key>com.barebones.bblm.css.custom-property</key>
+	<string>hsla(0.189, 1.000, 0.600, 1.000)</string>
+	<key>com.barebones.bblm.css.property</key>
+	<string>hsla(0.189, 1.000, 0.600, 1.000)</string>
+	<key>com.barebones.bblm.css.vendor-property</key>
+	<string>hsla(0.189, 1.000, 0.600, 1.000)</string>
 	<key>com.barebones.bblm.file-include</key>
 	<string>hsla(0.570, 0.819, 0.824, 1.000)</string>
 	<key>com.barebones.bblm.grep.charclass</key>
