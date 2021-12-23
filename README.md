@@ -1,7 +1,7 @@
 # BBEdit Color Schemes
 
-Color schemes for the excellent [BBEdit text/code editor](https://www.barebones.com/products/bbedit/).   
-These themes have been tested on BBEdit v12.6 and v13.
+Color schemes for the excellent [BBEdit text/code editor](https://www.barebones.com/products/bbedit/) (it doesn't suck).   
+These themes have been tested on BBEdit v12.6, v13 and v14.
 
 Campsite is based on [Andrew Hazelden's Charcoal v2](https://github.com/AndrewHazelden/More-TextWrangler-and-BBEdit-Color-Schemes/tree/master/Charcoal%20Color%20Scheme).   
 Solarized was ported from <https://ethanschoonover.com/solarized/>.   
