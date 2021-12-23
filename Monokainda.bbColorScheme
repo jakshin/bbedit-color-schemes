@@ -38,6 +38,12 @@
 	<string>hsla(0.146, 0.154, 0.584, 1.000)</string>
 	<key>com.barebones.bblm.css.color-spec</key>
 	<string>hsla(0.155, 0.497, 0.906, 1.000)</string>
+	<key>com.barebones.bblm.css.custom-property</key>
+	<string>hsla(0.222, 0.796, 0.887, 1.000)</string>
+	<key>com.barebones.bblm.css.property</key>
+	<string>hsla(0.222, 0.796, 0.887, 1.000)</string>
+	<key>com.barebones.bblm.css.vendor-property</key>
+	<string>hsla(0.222, 0.796, 0.887, 1.000)</string>
 	<key>com.barebones.bblm.file-include</key>
 	<string>hsla(0.528, 0.573, 0.937, 1.000)</string>
 	<key>com.barebones.bblm.grep.charclass</key>
@@ -64,6 +70,8 @@
 	<string>hsla(0.222, 0.796, 0.886, 1.000)</string>
 	<key>com.barebones.bblm.keyword</key>
 	<string>hsla(0.529, 0.573, 0.937, 1.000)</string>
+	<key>com.barebones.bblm.keyword-argument-name</key>
+	<string>hsla(0.529, 0.663, 0.813, 1.000)</string>
 	<key>com.barebones.bblm.markdown.Emph</key>
 	<string>hsla(0.072, 0.830, 0.962, 1.000)</string>
 	<key>com.barebones.bblm.markdown.HorizontalRule</key>
@@ -99,7 +107,7 @@
 	<key>com.barebones.bblm.perl.pre-generic-string</key>
 	<string>hsla(0.600, 0.580, 0.878, 1.000)</string>
 	<key>com.barebones.bblm.predefined-symbol</key>
-	<string>rgba(0.650980,0.886274,0.180392,1.0)</string>
+	<string>hsla(0.222, 0.796, 0.886, 1.000)</string>
 	<key>com.barebones.bblm.preprocessor</key>
 	<string>hsla(0.600, 0.580, 0.878, 1.000)</string>
 	<key>com.barebones.bblm.ruby.regexp</key>
